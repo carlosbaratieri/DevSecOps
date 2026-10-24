@@ -1,2 +1,4 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=SQL
+Docker/Dockerfiles/*.Dockerfile linguist-language=Dockerfile
+Docker/apache-hardening/Dockerfile linguist-language=Dockerfile
