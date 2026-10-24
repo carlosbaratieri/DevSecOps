@@ -11,7 +11,11 @@
 
 ---
 
+<div align="center">
+
 # **`Fatec Ourinhos`**
+
+</div>
 
 >[!IMPORTANT]
 > O foco deste repositório é reunir scripts avulsos de tópicos de estudo que desenvolvi enquanto estudava na Fatec Ourinhos. Inclui, por exemplo, materiais relacionados a Docker, iptables, PL/SQL, scripts de configuração, auditoria e monitoramento de servidores, entre outros assuntos que serão abordados e ampliados gradualmente.
